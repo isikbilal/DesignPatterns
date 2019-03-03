@@ -1,0 +1,9 @@
+c:\users\ogrenci\documents\visual studio 2015\Projects\Single\Single\bin\Debug\Single.exe.config
+c:\users\ogrenci\documents\visual studio 2015\Projects\Single\Single\bin\Debug\Single.exe
+c:\users\ogrenci\documents\visual studio 2015\Projects\Single\Single\bin\Debug\Single.pdb
+c:\users\ogrenci\documents\visual studio 2015\Projects\Single\Single\obj\Debug\Single.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2015\Projects\Single\Single\obj\Debug\Single.exe
+c:\users\ogrenci\documents\visual studio 2015\Projects\Single\Single\obj\Debug\Single.pdb
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Single\Single\bin\Debug\Single.exe.config
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Single\Single\obj\Debug\Single.exe
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Single\Single\obj\Debug\Single.pdb

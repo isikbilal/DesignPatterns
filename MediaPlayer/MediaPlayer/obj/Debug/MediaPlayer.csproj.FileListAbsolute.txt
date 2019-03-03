@@ -1,0 +1,12 @@
+c:\users\ogrenci\documents\visual studio 2015\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+c:\users\ogrenci\documents\visual studio 2015\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+c:\users\ogrenci\documents\visual studio 2015\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+c:\users\ogrenci\documents\visual studio 2015\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2015\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+c:\users\ogrenci\documents\visual studio 2015\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache

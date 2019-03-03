@@ -1,0 +1,12 @@
+c:\users\ogrenci\documents\visual studio 2015\Projects\Facade\Facade\bin\Debug\Facade.exe.config
+c:\users\ogrenci\documents\visual studio 2015\Projects\Facade\Facade\bin\Debug\Facade.exe
+c:\users\ogrenci\documents\visual studio 2015\Projects\Facade\Facade\bin\Debug\Facade.pdb
+c:\users\ogrenci\documents\visual studio 2015\Projects\Facade\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2015\Projects\Facade\Facade\obj\Debug\Facade.exe
+c:\users\ogrenci\documents\visual studio 2015\Projects\Facade\Facade\obj\Debug\Facade.pdb
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Facade\Facade\bin\Debug\Facade.exe.config
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Facade\Facade\obj\Debug\Facade.exe
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Facade\Facade\obj\Debug\Facade.pdb
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Facade\Facade\bin\Debug\Facade.exe
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Facade\Facade\bin\Debug\Facade.pdb
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Facade\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache

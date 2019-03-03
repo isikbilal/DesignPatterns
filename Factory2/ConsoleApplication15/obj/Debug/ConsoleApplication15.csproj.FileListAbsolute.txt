@@ -1,0 +1,12 @@
+c:\users\ogrenci\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+c:\users\ogrenci\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+c:\users\ogrenci\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+c:\users\ogrenci\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+c:\users\ogrenci\documents\visual studio 2015\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.csprojResolveAssemblyReference.cache

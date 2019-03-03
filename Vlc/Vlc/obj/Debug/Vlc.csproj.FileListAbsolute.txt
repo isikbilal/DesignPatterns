@@ -1,0 +1,6 @@
+c:\users\ogrenci\documents\visual studio 2015\Projects\Vlc\Vlc\bin\Debug\Vlc.exe.config
+c:\users\ogrenci\documents\visual studio 2015\Projects\Vlc\Vlc\obj\Debug\Vlc.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2015\Projects\Vlc\Vlc\bin\Debug\Vlc.exe
+c:\users\ogrenci\documents\visual studio 2015\Projects\Vlc\Vlc\bin\Debug\Vlc.pdb
+c:\users\ogrenci\documents\visual studio 2015\Projects\Vlc\Vlc\obj\Debug\Vlc.exe
+c:\users\ogrenci\documents\visual studio 2015\Projects\Vlc\Vlc\obj\Debug\Vlc.pdb

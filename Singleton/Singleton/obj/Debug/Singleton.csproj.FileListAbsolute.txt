@@ -1,0 +1,11 @@
+c:\users\ogrenci\documents\visual studio 2015\Projects\Singleton\Singleton\bin\Debug\Singleton.exe.config
+c:\users\ogrenci\documents\visual studio 2015\Projects\Singleton\Singleton\bin\Debug\Singleton.exe
+c:\users\ogrenci\documents\visual studio 2015\Projects\Singleton\Singleton\bin\Debug\Singleton.pdb
+c:\users\ogrenci\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\Singleton.exe
+c:\users\ogrenci\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\Singleton.pdb
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Singleton\Singleton\bin\Debug\Singleton.exe.config
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Singleton\Singleton\obj\Debug\Singleton.exe
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Singleton\Singleton\obj\Debug\Singleton.pdb
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Singleton\Singleton\bin\Debug\Singleton.exe
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Singleton\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache

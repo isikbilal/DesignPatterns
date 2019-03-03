@@ -1,0 +1,12 @@
+c:\users\ogrenci\documents\visual studio 2015\Projects\Factory\Factory\bin\Debug\Factory.exe.config
+c:\users\ogrenci\documents\visual studio 2015\Projects\Factory\Factory\bin\Debug\Factory.exe
+c:\users\ogrenci\documents\visual studio 2015\Projects\Factory\Factory\bin\Debug\Factory.pdb
+c:\users\ogrenci\documents\visual studio 2015\Projects\Factory\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2015\Projects\Factory\Factory\obj\Debug\Factory.exe
+c:\users\ogrenci\documents\visual studio 2015\Projects\Factory\Factory\obj\Debug\Factory.pdb
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Factory\Factory\bin\Debug\Factory.exe.config
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Factory\Factory\obj\Debug\Factory.exe
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Factory\Factory\obj\Debug\Factory.pdb
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Factory\Factory\bin\Debug\Factory.exe
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Factory\Factory\bin\Debug\Factory.pdb
+D:\BorCoFix\Okul\DERSLER\3. sınıf 1. Dönem\Yazılım Tasarım Mimarisi\Derste Sefa Hocanın Yaptıkları\Projects\Factory\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
